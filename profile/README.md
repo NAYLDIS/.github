@@ -1,62 +1,197 @@
 <p align="center">
-  <img src="https://nayldis.org/assets/logo/logo.png" alt="NAYLDIS Logo" width="120">
+  <img src="https://nayldis.org/assets/logo-nayldis.png" alt="NAYLDIS Logo" width="180">
 </p>
 
 <h1 align="center">NAYLDIS</h1>
 
+<h4 align="center">Next African Youth Leaders for Development, Impact, and Sustainability</h4>
+
 <p align="center">
-  <strong>Next African Youth Leaders for Development, Impact, and Sustainability</strong>
+  <em>Empowering young African leaders through education, mentorship, and sustainable impact.</em>
 </p>
 
 <p align="center">
-  <a href="https://nayldis.org">Website</a> &bull;
-  <a href="https://www.linkedin.com/company/nayldis/">LinkedIn</a> &bull;
-  <a href="https://www.facebook.com/nayldis">Facebook</a> &bull;
-  <a href="mailto:contact@nayldis.org">Contact</a>
+  <a href="https://nayldis.org"><img src="https://img.shields.io/badge/Website-nayldis.org-006D5B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/nayldis/"><img src="https://img.shields.io/badge/LinkedIn-NAYLDIS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/nayldis"><img src="https://img.shields.io/badge/Facebook-NAYLDIS-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:contact@nayldis.org"><img src="https://img.shields.io/badge/Email-contact%40nayldis.org-FFB800?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### About
+<br>
 
-NAYLDIS is a youth-led nonprofit organization empowering young African leaders through education, mentorship, and sustainable impact initiatives. Based in Cotonou, Benin Republic, we operate across Benin, Togo, Sierra Leone, and Ivory Coast.
+<table>
+<tr>
+<td width="60%">
 
-### What We Do
+### Who We Are
 
-**Leadership & Civic Engagement** -- Developing ethical, responsible young leaders and strengthening civic participation at the community level.
+NAYLDIS is a **youth-led nonprofit organization** based in Cotonou, Benin Republic.
+We empower young African leaders through education, mentorship, social problem-solving,
+and sustainable impact initiatives, driving positive change across the continent.
 
-**Education & Employability** -- Creating pathways from education to successful professional integration through training and mentorship.
+We operate in **Benin, Togo, Sierra Leone, and Ivory Coast**.
 
-**Entrepreneurship & Innovation** -- Supporting young entrepreneurs through training, mentorship, and access to resources.
+</td>
+<td width="40%">
 
-**Community Development** -- Delivering high-impact initiatives in water access, renewable energy, and women's economic empowerment.
+### Our Vision
 
-### Our Programs
+A prosperous Africa led by a generation of young, ethical, and innovative leaders
+transforming their communities through sustainable and impactful initiatives.
 
-| Program | Description |
-|---|---|
-| **URYP** | Under-Represented Youth Pathways -- professional training, job placement, and skills development for disadvantaged youth |
-| **OSOM** | One Student One Mentor -- connecting secondary school students with mentors to guide academic and career choices |
-| **Peer-Coaching** | Free peer-to-peer career support: CV review, interview prep, entrepreneurship guidance |
+</td>
+</tr>
+</table>
 
-### Impact
+<br>
 
-| 1,500+ | 4+ | 3 | 48 |
-|:---:|:---:|:---:|:---:|
-| Lives Impacted | Projects Implemented | Communities Served | Women Trained in Entrepreneurship |
+---
 
-### Get Involved
+<br>
 
-- **Volunteer** -- share your skills and time to support community projects and mentor youth
-- **Donate** -- help us expand our reach and implement sustainable development projects
-- **Partner** -- collaborate with us on joint initiatives across the continent
+<h2 align="center">Areas of Focus</h2>
 
-### Tech Stack
+<br>
 
-Our technical infrastructure is open source. We build with Angular, TypeScript, Docker, and nginx.
+<table>
+<tr>
+<td align="center" width="25%">
+<h4>Leadership &<br>Civic Engagement</h4>
+<p>Developing ethical, responsible young leaders and strengthening civic participation at the community level.</p>
+</td>
+<td align="center" width="25%">
+<h4>Education &<br>Employability</h4>
+<p>Creating pathways from education to successful professional integration through training and mentorship.</p>
+</td>
+<td align="center" width="25%">
+<h4>Entrepreneurship &<br>Innovation</h4>
+<p>Supporting young entrepreneurs through training, mentorship, and access to resources.</p>
+</td>
+<td align="center" width="25%">
+<h4>Community<br>Development</h4>
+<p>High-impact initiatives in water access, renewable energy, and women's economic empowerment.</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Our Programs</h2>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>URYP</h3>
+<strong>Under-Represented Youth Pathways</strong>
+<br><br>
+Professional training, job placement, and skills development for youth from disadvantaged backgrounds.
+</td>
+<td width="33%" align="center">
+<h3>OSOM</h3>
+<strong>One Student One Mentor</strong>
+<br><br>
+Connecting secondary school students with mentors to guide their academic and career choices before graduation.
+</td>
+<td width="33%" align="center">
+<h3>Peer-Coaching</h3>
+<strong>Career Support Platform</strong>
+<br><br>
+Free peer-to-peer career support: CV review, interview preparation, and entrepreneurship guidance.
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Impact</h2>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h1>1,500+</h1>
+<strong>Lives Impacted</strong>
+</td>
+<td align="center" width="25%">
+<h1>4+</h1>
+<strong>Projects Implemented</strong>
+</td>
+<td align="center" width="25%">
+<h1>3</h1>
+<strong>Communities Served</strong>
+</td>
+<td align="center" width="25%">
+<h1>4</h1>
+<strong>Countries of Operation</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Get Involved</h2>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>Volunteer</h3>
+Share your skills and time to support community projects and mentor youth.
+</td>
+<td align="center" width="33%">
+<h3>Donate</h3>
+Help us expand our reach and implement sustainable development projects.
+</td>
+<td align="center" width="33%">
+<h3>Partner</h3>
+Collaborate with us on joint initiatives across the continent.
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Open Source</h2>
+
+<p align="center">
+Our technical infrastructure is open source. We believe in transparency and collaboration.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-20-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/nginx-1.27-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx">
+</p>
+
+<br>
 
 ---
 
 <p align="center">
-  <sub>Cotonou, Benin Republic &bull; contact@nayldis.org</sub>
+  <strong>NAYLDIS</strong> &bull; Cotonou, Benin Republic
+  <br>
+  <a href="mailto:contact@nayldis.org">contact@nayldis.org</a> &bull; <a href="https://nayldis.org">nayldis.org</a>
 </p>
