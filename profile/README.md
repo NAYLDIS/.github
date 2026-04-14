@@ -173,23 +173,6 @@ Collaborate with us on joint initiatives across the continent.
 
 <br>
 
-<h2 align="center">Open Source</h2>
-
-<p align="center">
-Our technical infrastructure is open source. We believe in transparency and collaboration.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-20-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/nginx-1.27-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx">
-</p>
-
-<br>
-
----
-
 <p align="center">
   <strong>NAYLDIS</strong> &bull; Cotonou, Benin Republic
   <br>
